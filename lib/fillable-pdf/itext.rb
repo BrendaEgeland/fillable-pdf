@@ -15,6 +15,7 @@ module ITEXT
     PdfDictionary = Rjb.import 'com.itextpdf.kernel.pdf.PdfDictionary'
     PdfDocument = Rjb.import 'com.itextpdf.kernel.pdf.PdfDocument'
     PdfFormXObject = Rjb.import 'com.itextpdf.kernel.pdf.xobject.PdfFormXObject'
+    PdfFontFactory = Rjb.import 'com.itextpdf.kernel.fontPdfFontFactory'
     PdfName = Rjb.import 'com.itextpdf.kernel.pdf.PdfName'
     PdfReader = Rjb.import 'com.itextpdf.kernel.pdf.PdfReader'
     PdfWriter = Rjb.import 'com.itextpdf.kernel.pdf.PdfWriter'
